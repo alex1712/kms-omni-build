@@ -26,3 +26,7 @@
 	path = kurento-media-server
 	url = ../kurento-media-server
 	master = master
+[submodule "kurento-java"]
+	path = kurento-java
+	url = ../kurento-java
+	master = master
